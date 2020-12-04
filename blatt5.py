@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as mp
 
-#Test-Daten
+#Test-Daten aus der Aufgabe
 xVals = np.empty(11)
 yVals = np.empty(11)
 for i in range(11):
